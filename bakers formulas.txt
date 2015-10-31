@@ -1,0 +1,12 @@
+TFW = TW Ö TP
+Total Flour Weight equals Total Weight divided by Total Percentage
+
+IW = IP x TFW
+Ingredient Weight equals Ingredient Percentage times Total Flour Weight
+
+IP = IW Ö TFW x 100
+Ingredient Percentage equals Ingredient Weight divided by Total Flour Weight times 100
+
+#cookingnote #bread #PeterReinhart #math #formula #bake
+
+

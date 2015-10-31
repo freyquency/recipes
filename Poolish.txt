@@ -1,0 +1,24 @@
+Source: The Bread Baker’s Apprentice
+Servings/Yield: Makes about 23 ounces (enough for Ciabatta, Poolish Version, page 136)
+Prep Time: 
+
+Ingredients: 
+	2 1/2 cups (11.25 ounces) unbleached bread flour
+	1 1/2 cups (12 ounces) water, at room temperature
+	1 1/4 teaspoons (.03 ounce) instant yeast
+	
+Directions: 
+	Stir together the flour, water, and yeast in a mixing bowl until all of the flour is hydrated. The dough should be soft and sticky and look like very thick pancake batter. Cover the bowl with plastic wrap and ferment at room temperature for 3 to 4 hours, or until the sponge becomes bubbly and foamy. Immediately refridgerate it. It will keep for up to 3 days in the refrigerator.
+	
+Notes: 
+	Biga can be substituted for Poolish, as long as final water formula is adjusted. Can be used immediately after fermentation but will lack some of the flavor profile from overnight refrigeration.
+	
+Bakers Percentage Formula: 
+	Bread flour	100%
+	Water	107%
+	Instant Yeast	.27%
+	Total	207.3%
+	
+Added: 2009-11-18
+
+#bread #dough #basic #PeterReinhart
