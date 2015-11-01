@@ -6,7 +6,8 @@ Prep Time:
 
 Ingredients
 ============================
-Pad Thai:
+### Pad Thai:
+
   * One eight-ounce package rice noodles
   * 1 cup unsalted, roasted, skinless, peanuts roughly chopped
   * 2 large eggs
@@ -27,7 +28,7 @@ Pad Thai:
   * 2 tbsp. Chile vinegar
   * 1 lime cut into wedges
 
-Chile Vinegar:
+### Chile Vinegar:
   * 2 Thai Chiles seeds and ribs removed thinly sliced
   * 1/2 cup rice wine vinegar
   * 2 tbsp. sugar
