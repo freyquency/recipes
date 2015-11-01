@@ -7,28 +7,29 @@ Prep Time:  10 minutes prep, 20 minutes cooking
 Ingredients
 ============================
 For Ramen:
-  2 tbsp. vegetable oil
-  2 carrots , roughly chopped
-  1 celery stalk , roughly chopped
-  1 small yellow onion , roughly diced
-  2 garlic cloves , smashed
-  1 zucchini , roughly diced
-  1/8 cup white wine (or white wine vinegar)
-  3 ½ cups vegetable stock or chicken stock
-  1 cup water
-  1 lime , juiced
-  1/8 cup soy sauce
-  6 oz ramen noodles
-  Sriracha , optional
-  1 cup corn
-  1 cup savoy cabbage, shredded
-  1 cup mushrooms, thinly sliced
+  * 2 tbsp. vegetable oil
+  * 2 carrots , roughly chopped
+  * 1 celery stalk , roughly chopped
+  * 1 small yellow onion , roughly diced
+  * 2 garlic cloves , smashed
+  * 1 zucchini , roughly diced
+  * 1/8 cup white wine (or white wine vinegar)
+  * 3 ½ cups vegetable stock or chicken stock
+  * 1 cup water
+  * 1 lime , juiced
+  * 1/8 cup soy sauce
+  * 6 oz ramen noodles
+  * Sriracha , optional
+  * 1 cup corn
+  * 1 cup savoy cabbage, shredded
+  * 1 cup mushrooms, thinly sliced
+
 For Garnish:
-  handful of cilantro leaves , roughly chopped
-  4 scallion stalks , chopped
-  1 lime , cut into wedges
-  1 avocado , in slices
-  Sriracha , optional
+  * handful of cilantro leaves , roughly chopped
+  * 4 scallion stalks , chopped
+  * 1 lime , cut into wedges
+  * 1 avocado , in slices
+  * Sriracha , optional
 
 Directions
 ============================
@@ -44,4 +45,4 @@ Notes
 
 Added: 2015-10
 
-#soup 
+#soup

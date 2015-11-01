@@ -6,29 +6,31 @@ Prep Time:
 
 Ingredients
 ============================
-  One eight-ounce package rice noodles
-  1 cup unsalted, roasted, skinless, peanuts roughly chopped
-  2 large eggs
-  2 tbsp. vegetable oil
-  One 2-inch piece ginger peeled and minced
-  2 garlic cloves chopped
-  2 bird's-eye chiles seeds and ribs removed chopped
-  2 boneless skinless chicken breasts
-  2 tbsp. dried shrimp paste
-  1 tbsp. fish sauce
-  1 tbsp. tamarind paste
-  3 tbsp. soy sauce
-  1 tbsp. sugar
-  1 cup cubed firm tofu (1/2 inch cubes)
-  2 scallions white and light green parts chopped
-  2 tbsp. chopped cilantro
-  1/2 head iceberg lettuce shredded (about 3 cups)
-  2 tbsp. Chile vinegar
-  1 lime cut into wedges
-  For Chile Vinegar:
-  2 Thai Chiles seeds and ribs removed thinly sliced
-  1/2 cup rice wine vinegar
-  2 tbsp. sugar
+Pad Thai:
+  * One eight-ounce package rice noodles
+  * 1 cup unsalted, roasted, skinless, peanuts roughly chopped
+  * 2 large eggs
+  * 2 tbsp. vegetable oil
+  * One 2-inch piece ginger peeled and minced
+  * 2 garlic cloves chopped
+  * 2 bird's-eye chiles seeds and ribs removed chopped
+  * 2 boneless skinless chicken breasts
+  * 2 tbsp. dried shrimp paste
+  * 1 tbsp. fish sauce
+  * 1 tbsp. tamarind paste
+  * 3 tbsp. soy sauce
+  * 1 tbsp. sugar
+  * 1 cup cubed firm tofu (1/2 inch cubes)
+  * 2 scallions white and light green parts chopped
+  * 2 tbsp. chopped cilantro
+  * 1/2 head iceberg lettuce shredded (about 3 cups)
+  * 2 tbsp. Chile vinegar
+  * 1 lime cut into wedges
+
+Chile Vinegar:
+  * 2 Thai Chiles seeds and ribs removed thinly sliced
+  * 1/2 cup rice wine vinegar
+  * 2 tbsp. sugar
 
 Directions
 ============================
