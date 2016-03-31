@@ -1,3 +1,5 @@
+# Onions
+
 There are two main classifications of this underground bulb: green onions (also called scallions) and dry onions, which are mature versions of the former. Onions come in a wide range of colors, shapes and flavors. Boiling onions are small versions (up to 2" in diameter) of yellow, white or red onions. When cooked, onions will become translucent.
 
 Season: available year-round
@@ -9,7 +11,7 @@ Matches well with: apples, bacon, butter, cheese, cinnamon, cloves, cream, mushr
 Substitutions: 1 tbsp dried minced onion = 1 med chopped onion; 1 tsp onion powder = 1 med chopped onion
 
 
-Cooking with Onions:
+## Cooking with Onions:
 
 What should I look for when purchasing onions?
 
@@ -49,7 +51,7 @@ With only 30 calories per serving, onions are sodium, fat, and cholesterol free,
 
 
 
-Storage of Onions:
+## Storage of Onions:
 
 Where should I store my onions?
 

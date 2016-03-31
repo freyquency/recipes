@@ -1,3 +1,5 @@
+# Ginger
+
 This tropical rhizome (an underground stem) is one of the essential flavors of Asian cuisine. Its pleasantly pungent flavor comes from naturally occurring chemical irritants that also create a warm sensation on the tongue.
 
 To choose fresh ginger - choose the hardest, smoothest pieces you can find. The longer ginger sits around, the more wrinkled it gets. Avoid any pieces that show signs of mold. To test for freshness, break off one of the knobs. If the ginger is fresh, it will break with a clean snap.

@@ -1,3 +1,5 @@
+# Garlic
+
 Known as the stinking rose. The edible bulb is made up of sections called cloves, that are encased in a parchmentlike membrane. Three major varieties are available in the US: the white-skinned strongly flavored American garlic; Mexican and Italian garlic, which have mauve-colored skins and a somewhat milder flavor; and the white-skinned, mild flavored elephant garlic, which is not a true garlic, but a relative of the leek. Green garlic, is young garlic before it begins to form cloves; resembling a baby leek, with a long green top and white bulb. Garlic's essential oils remain in the body long after consumption, affecting breath and even skin odor.
 
 Season: available year-round

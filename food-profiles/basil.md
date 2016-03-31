@@ -1,6 +1,8 @@
+# Basil
+
 A leafy herb from the mint family with a licorice-clove flavor. Basil is usually green, though there are purple varieties, such as Opal Basil. Lemon basil, anise basil, clove basil and cinnamon basil all have flavors similar to their names. Basil is a key ingredient in Mediterranean cooking.
 
-Season: June Ð September
+Season: June - September
 
 How to select: Available year round, but true harvest is summer. Look for even colored leaves.
 

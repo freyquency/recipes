@@ -1,31 +1,34 @@
+#BEANS
+
 Source: “Bulk Basics” – Whole Foods free book
 
-Selecting
+## Selecting
 Look for smooth surfaces and bright colors. Cracked seams or dull, wrinkled surfaces indicate dryness.
 
-Storing
+## Storing
 Store in an airtight glass jar away from heat. Use within six months.
 
-Freezing
+## Freezing
 Cooked beans freeze very well; cook up extra and freeze for later use.
 
-Preparing dried beans
+## Preparing dried beans
 Sort & Rinse: spread beans out on a clean kitchen towel or in a cake pan and remove shriveled beans and pebbles. Rinse in cold water.
 
 Soak: Beans should be soaked. This is the vital step in bean digestibility (exceptions include short–cook beans). Add water: about 3 inches above beans, or 4-5 cups water per cup beans. Note: in warm weather, soak beans in the fridge to avoid fermentation.
 
 Short soak/boil method: Boil beans in water for 3 minutes in a heavy–bottomed pot. Cover and set aside for 2–4 hours. Drain and discard water. Rinse beans before cooking. This method reduces the hard–to–digest complex sugars by 80%.
 
-Long soak method: Soak beans for 8 hours or overnight. Drain and discard water. Rinse beans before cooking. This method is better than no soaking at all, but it does not remove the complex sugars as well as the short soak/boil method. 
+Long soak method: Soak beans for 8 hours or overnight. Drain and discard water. Rinse beans before cooking. This method is better than no soaking at all, but it does not remove the complex sugars as well as the short soak/boil method.
 
-Cooking
+## Cooking
 
-Cook beans in fresh water – not the water used for soaking – in a large, covered pot. (A pressure cooker shortens cooking time without lowering nutritional value.) Use 3-4 cups of water for each cup of dry beans. Water should be about 1 inch above the top of beans. Do not salt or add acidic flavoring until beans are cooked all the way through. Each cup of dry beans yields 2-2½ cups of cooked beans. 
+Cook beans in fresh water – not the water used for soaking – in a large, covered pot. (A pressure cooker shortens cooking time without lowering nutritional value.) Use 3-4 cups of water for each cup of dry beans. Water should be about 1 inch above the top of beans. Do not salt or add acidic flavoring until beans are cooked all the way through. Each cup of dry beans yields 2-2½ cups of cooked beans.
 
-Seasoning Beans
+### Seasoning Beans
 Cook from the start with these basic spices: chopped onion and garlic cloves; traditional digestive spices — bay leaves, cumin, epazote; kombu, a tenderizing sea vegetable available in bulk. Add any other seasonings 30 minutes before beans are due to be done. Spicing too early can cause the flavors to break down. The following items will toughen uncooked beans and increase cooking time considerably: salt/unrefined sea salt; miso, tamari and soy sauce; sugars; acidic ingredients, including tomatoes, wine and lemon. Add a final flash of flavor to cooked beans with one, two or three of the following: fresh lemon and grated Parmesan; yogurt; fruity olive oil and balsamic vinegar; toasted sesame oil, rice wine and soy sauce; red wine; miso and toasted sesame seeds; umeboshi (Japanese plum) vinegar or brown rice vinegar; fresh basil, cilantro, parsley, garlic, ground black pepper.
 
-BEANS
+## Bean Profiles
+
 Bean: Adzuki
 Boiling: 1 1/2 hours
 Pressure Cooking: 25 minutes
@@ -33,7 +36,7 @@ Uses:  Lower in fat and easier to digest than most beans. Add cubes of peeled wi
 
 Bean: Baby Lima
 Boiling: 1 hour
-Pressure Cooking: avoid 
+Pressure Cooking: avoid
 Uses: Combine with corn and green beans for succotash. Add to minestrone soup.
 
 Bean: Black Turtle
@@ -48,7 +51,7 @@ Uses:  Traditionally served with rice (“Hoppin’ John”), black–eyed peas 
 
 Bean: Cannellini
 Boiling: 1 1/2 hours
-Pressure Cooking: 25 minutes 
+Pressure Cooking: 25 minutes
 Uses: A white kidney bean. Ideal for minestrone and other italian dishes.
 
 Bean: Chana Dahl
@@ -63,11 +66,11 @@ Uses: Puree well–cooked chickpeas with tahini, garlic, lemon, sea salt, and ol
 
 Bean: Cranberry
 Boiling: 1 1/2 hours
-Pressure Cooking: 20 minutes 
+Pressure Cooking: 20 minutes
 Uses: A New England heirloom bean; use as for pinto beans.
 
 Bean: Dahl (do not presoak)
-Boiling: 25–30 minutes 
+Boiling: 25–30 minutes
 Pressure Cooking: avoid
 Uses: Dahl is an indian word referring to split legumes, usually unhulled, or the dish made from these legumes.
 
@@ -87,23 +90,23 @@ Pressure Cooking: avoid
 Uses: Small, dark and stronger than other lentils. Use in soup or meat dishes.
 
 Bean: Green Lentils (do not presoak)
-Boiling: 45 minutes 
-Pressure Cooking: 20 minutes 
+Boiling: 45 minutes
+Pressure Cooking: 20 minutes
 Uses: Season green lentils with tarragon in soups. Combine with olive oil, balsamic vinegar, mustard, parsley, and garlic as a salad. Puree with cumin, ground ginger, and turmeric for an Indian dahl.
 
 Bean: Green Split Peas (do not presoak)
 Boiling: 1 1/4 hours
-Pressure Cooking:  25 minutes 
+Pressure Cooking:  25 minutes
 Uses: Most often used in soups with tomatoes, carrots, celery, and a touch of balsamic vinegar. Or puree with cumin, coriander, and turmeric. Serve with minted yogurt for an Indian touch.
 
 Bean: Lima (baby)
 Boiling: 1 hours
-Pressure Cooking: avoid 
+Pressure Cooking: avoid
 Uses: Combine with corn and green beans for succotash. Add to minestrone soup.
 
 Bean: Mung
 Boiling: 1 1/4 hours
-Pressure Cooking: 25 minutes 
+Pressure Cooking: 25 minutes
 Uses: Tiny, round, green and easily digested. Perfect for sprouting or as dahl.
 
 Bean: Navy
@@ -132,7 +135,7 @@ Pressure Cooking: 1 1/2 hours
 Uses: Well cooked soy beans can be made into a sweet and sour dish with garlic, ginger, pineapple, and tomatoes.
 
 Bean: Yellow Split Peas (do not soak)
-Boiling: 1 1/4 hours 
+Boiling: 1 1/4 hours
 Pressure Cooking: 25 minutes
 Uses: Good in curried dishes over basmati rice, pureed in a mint and garlic yogurt sauce, or with lemon and cumin in soups.
 
