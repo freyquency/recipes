@@ -1,8 +1,8 @@
 LINDA MALLINSON'S TIRAMISU
 ============================
-Source: Linda Mallinson
-Servings/Yield: 15+
-Prep Time: 8 hours
+* Source: Linda Mallinson
+* Servings/Yield: 15+
+* Prep Time: 8 hours
 
 Ingredients
 ============================
