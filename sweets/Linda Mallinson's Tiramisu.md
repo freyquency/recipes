@@ -24,10 +24,9 @@ Directions
 3. Whip cream with 1 tsp vanilla.
 4. Fold whipped cream into cheese mixture until well-blended.
 5. Layer the pan with lady fingers, brush with coffee and flavorings.
-6. Allow turkey to rest after removing it from the broiler for 25 to 30 minutes.
-7. Repeat steps 5 and 6.
-8. Cover top with grated chocolate.
-9. Refrigerate no less than 2 hours - better overnight.
+6. Repeat steps 5 and 6.
+7. Cover top with grated chocolate.
+8. Refrigerate no less than 2 hours - better overnight.
 
 Notes
 ============================
