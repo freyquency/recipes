@@ -1,4 +1,4 @@
-Seitan Chili
+Seitan Chili WOO
 =======================
 Source: Vegan She Knows (wtf?) http://vegan.sheknows.com/2010/12/13/seitan-chili/
 Servings/Yield: 8
