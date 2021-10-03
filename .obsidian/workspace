@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "61086171b4a97dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1221975f5174012",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a52e00c845f03d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45faf2b4b428647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc829649254a791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "47190842dafd2ca9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87911d8142ae6c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "93dd6471d739ef06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f89fa302a699e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e1221975f5174012",
+  "lastOpenFiles": [
+    "casseroles/Pumpkin Mac and cheese.md",
+    "Bento/Bento Meal Planner.pdf",
+    "sweets/Linda Mallinson's Tiramisu.md"
+  ]
+}

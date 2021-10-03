@@ -1,11 +1,14 @@
-Pumpkin Mac & Cheese with Apples and Caramelized Onions
-============================
-Source:  [Once Upon a Cutting Board](http://www.onceuponacuttingboard.com/2012/11/pumpkin-mac-cheese-with-apples-and.html)
-Servings/Yield: 4-6
-Prep Time:
+Added: 2016-11-23
 
-Ingredients
-============================
+# Pumpkin Mac & Cheese with Apples and Caramelized Onions
+
+- Source:  [Once Upon a Cutting Board](http://www.onceuponacuttingboard.com/2012/11/pumpkin-mac-cheese-with-apples-and.html)
+- Servings/Yield: 4-6
+- Prep Time:
+
+---
+
+## Ingredients
 * 8oz dry macaroni pasta (I used tri-colour vegetable pasta)
 * 1 tablespoon olive oil
 * 1 large onion, thinly sliced
@@ -22,8 +25,10 @@ Ingredients
 * 1-1/4 cups grated sharp cheddar cheese (I used applewood smoked cheddar and I used 1-1/2 cups to use it up)
 * ~1/4 cup panko bread crumbs, optional
 
-Directions
-============================
+--- 
+
+## Directions
+
 Preheat oven to 350°F.
 
 Cook pasta in a large pot of salted boiling water, according to package directions.  Drain and set aside.
@@ -35,10 +40,8 @@ About ten minutes before your onions and apples are done cooking, you can start 
 Stir together the pasta, cheese sauce, onions, and apples.  At this point, you can serve the mac and cheese as is for a stovetop version, or you can bake it.  If you choose to bake it, spread it into an 8x8 glass baking dish and sprinkle breadcrumbs on top.  Bake in preheated oven for about 30 minutes, let cool slightly, then serve.
 
 
-Notes
-============================
 
+---
 
-Added: 2016-11-23
+## Notes
 
-#

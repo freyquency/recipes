@@ -1,11 +1,14 @@
 LINDA MALLINSON'S TIRAMISU
-============================
+
+---
+
 * Source: Linda Mallinson
 * Servings/Yield: 15+
 * Prep Time: 8 hours
 
 Ingredients
-============================
+
+---
 
 * 1lb Marscapone Cheese (no subsitutes)
 * 1lb cream Cheese
@@ -18,7 +21,9 @@ Ingredients
 * 1/2 large baking bar of dark chocolate, grated
 
 Directions
-============================
+
+---
+
 1. Mix sugar & cheese until well-blended.
 2. Add 1tsp vanilla.
 3. Whip cream with 1 tsp vanilla.
@@ -29,7 +34,9 @@ Directions
 8. Refrigerate no less than 2 hours - better overnight.
 
 Notes
-============================
+
+---
+
 This is my mom's well-regarded recipe for tiramisu. She's given this recipe to chefs who have used it in their restaurants.
 
 Though she makes recommendations she used coffee and Grand Marnier.
