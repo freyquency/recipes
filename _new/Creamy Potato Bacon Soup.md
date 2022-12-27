@@ -11,18 +11,18 @@ Creamy Potato Bacon Soup via Spend With Pennies
 Creamy, hearty, and flavorful, this Potato Bacon Soup is perfect for lunch or dinner on a cold day.
 Ingredients
 
-- 8 slices bacon chopped
-- ½ onion diced
-- 2 cloves garlic minced
-- 2 ribs celery diced
-- 3 cups chicken broth low sodium
-- 16 ounces baking potatoes peeled and diced ½", about 2 medium potatoes
-- ¼ teaspoon dried thyme
-- 1 cup heavy cream
-- 1 tablespoon cornstarch
-- salt & pepper to taste
-- cayenne pinch
-- parmesan cheese & sliced green onions for garnish
+- 8 slices [[bacon]] chopped
+- ½ [[onion]] diced
+- 2 cloves [[garlic]] minced
+- 2 ribs [[celery]] diced
+- 3 cups [[chicken broth]] low sodium
+- 16 ounces baking [[potato]]es peeled and diced ½", about 2 medium potatoes
+- ¼ teaspoon dried [[thyme]]
+- 1 cup [[heavy cream]]
+- 1 tablespoon [[cornstarch]]
+- [[salt]] & [[pepper]] to taste
+- [[cayenne ]] pinch
+- [[parmesan cheese]] & sliced [[green onion]]s for garnish
 
 Instructions
 - Cook bacon in a large saucepan over medium heat until crisp. Remove with a slotted spoon and set aside.
@@ -41,6 +41,4 @@ Notes
 
 ## Log
 - [[2022-12-26]] #log #log/created added recipe
-- #reference/DraftsApp
-- #share
 

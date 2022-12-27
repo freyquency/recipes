@@ -11,8 +11,12 @@
             "id": "2ca88445b78b3347",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_new/Oven-Baked Bacon (allrecipes).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e39e731892e30f55",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "21e4e191507a1410",
             "type": "leaf",
             "state": {
@@ -54,11 +48,13 @@
             }
           },
           {
-            "id": "f6d393ccdf35a43d",
+            "id": "b975dbad30fdca29",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -81,23 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_new/Oven-Baked Bacon (allrecipes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2876290d37dbca4f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,11 +100,15 @@
             }
           },
           {
-            "id": "fe468aad1ec5fa56",
+            "id": "1026b0be086bba74",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "_new/Oven-Baked Bacon (allrecipes).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -131,13 +121,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "e39e731892e30f55",
-  "lastOpenFiles": []
+  "active": "2ca88445b78b3347",
+  "lastOpenFiles": [
+    "_new/Oven-Baked Bacon (allrecipes).md",
+    "_templates/recipe template.md",
+    "_new/Creamy Potato Bacon Soup.md",
+    "2022-12-26 Oven-Baked Bacon (allrecipes).md"
+  ]
 }
