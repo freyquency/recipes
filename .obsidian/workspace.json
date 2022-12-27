@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17f9520d10d5c2a2",
+        "id": "370e23b9e867f25a",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca88445b78b3347",
+            "id": "870952f16243a883",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_new/Oven-Baked Bacon (allrecipes).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_new/Oven-Baked Bacon (allrecipes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_new/Oven-Baked Bacon (allrecipes).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +121,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2ca88445b78b3347",
+  "active": "870952f16243a883",
   "lastOpenFiles": [
     "_new/Oven-Baked Bacon (allrecipes).md",
     "_templates/recipe template.md",
