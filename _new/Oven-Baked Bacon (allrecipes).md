@@ -17,5 +17,5 @@
 ## Log
 - [[2022-12-26]] created recipe
 - Source:  https://www.allrecipes.com/recipe/267904/oven-baked-bacon/
-- Servings/Yield:  
-- Prep Time:  5 minutes prep, 20-30 minutes baking
+- Servings/Yield:  ♨
+- Prep Time:  5 minutes prep, 20-40 minutes baking (depends on thickness)

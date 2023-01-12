@@ -7,14 +7,14 @@
 
 ## Ingredients
 
-* 3 tablespoon(s) all-purpose flour
-* 1/8 teaspoon(s) ground cumin
-* 1/8 teaspoon(s) salt
-* 1/8 teaspoon(s) cayenne pepper, or to taste
-* 1/3 cup(s) beer
-* 8 ounce(s) tilapia fillet, cut crosswise into 1-inch wide strips
-* 2 teaspoon(s) canola oil
-* 4  corn tortillas, warmed
+* 3 tablespoon(s) [[all-purpose flour]]
+* 1/8 teaspoon(s) ground [[cumin]]
+* 1/8 teaspoon(s) [[salt]]
+* 1/8 teaspoon(s) [[cayenne pepper]], or to taste
+* 1/3 cup(s) [[beer]]
+* 8 ounce(s) [[tilapia fillet]], cut crosswise into 1-inch wide strips
+* 2 teaspoon(s) [[canola oil]]
+* 4  [[corn tortillas]], warmed
 
 
 ## Directions

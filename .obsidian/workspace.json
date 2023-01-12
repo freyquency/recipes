@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "370e23b9e867f25a",
+        "id": "f3c924f750830437",
         "type": "tabs",
         "children": [
           {
-            "id": "870952f16243a883",
+            "id": "f7e1cb757eb17920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bento/All-season shredded vegetable pickle-salad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,8 +56,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "76d5901662c3171e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,13 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bento/All-season shredded vegetable pickle-salad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -100,8 +114,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bento/All-season shredded vegetable pickle-salad.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f1ff18fec9b3e3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bento/All-season shredded vegetable pickle-salad.md"
               }
             }
           }
@@ -109,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -121,11 +145,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "870952f16243a883",
+  "active": "f7e1cb757eb17920",
   "lastOpenFiles": [
-    "_new/Oven-Baked Bacon (allrecipes).md",
     "_templates/recipe template.md",
     "_new/Creamy Potato Bacon Soup.md",
-    "2022-12-26 Oven-Baked Bacon (allrecipes).md"
+    "_new/Oven-Baked Bacon (allrecipes).md",
+    "bacon.md",
+    "sandwiches/black bean burgers.md",
+    "food-profiles/beans.md",
+    "food-profiles/onion.md",
+    "food-profiles/bay-leaf.md",
+    "food-profiles/basil.md",
+    "beer-battered fish tacos.md"
   ]
 }
